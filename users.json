@@ -1,0 +1,37 @@
+{
+    "user1": {
+      "Company": "IPI",
+      "Name":"Ivan Sariego",
+      "Position":"IT",
+      "Location":"Davao City",
+      "id":1
+    },
+    "user2": {
+      "Company": "IPI",
+      "Name":"Gojo Satoru",
+      "Position":"Teacher",
+      "Location":"Shibuya",
+      "id":2
+    },
+    "user3": {
+      "Company": "Amesco Drug",
+      "Name":"Geto Suguru",
+      "Position":"IT",
+      "Location":"Nagasaki",
+      "id":3
+    },
+    "user4": {
+      "Company": "Rose Pharmacy",
+      "Name":"Nanami Kento",
+      "Position":"Insurance Broker",
+      "Location":"Shibuya",
+      "id":4
+    },
+    "user5": {
+      "Company": "Generics Pharmacy",
+      "Name":"Ryomen Sukuna",
+      "Position":"Manager",
+      "Location":"Hiroshima",
+      "id":5
+    }
+  }
